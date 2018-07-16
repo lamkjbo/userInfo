@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this app for fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "jdsj j"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dsds"
+  },
+  "keywords": [
+    "ds"
+  ],
+  "author": "d",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
