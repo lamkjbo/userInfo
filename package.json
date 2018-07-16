@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "this app for fun",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jdsj j"
   },
